@@ -9,6 +9,7 @@ import java.io.IOException;
 
 /**
  * 定义个servlet
+ * http://127.0.0.1:8080/simple-framework/hello
  */
 @WebServlet("/hello")
 public class HelloServlet extends HttpServlet {
